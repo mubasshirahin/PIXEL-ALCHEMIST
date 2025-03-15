@@ -38,12 +38,10 @@ Open the project in Visual Studio 2013
 ## How to Play
 
 ### **Controls**
-+-----------+-----------+------------+------------+------------+---------+
-|           | Move Left | Move Right |  Move Up   |  Move Down | Collect |
-+-----------+-----------+------------+------------+------------+---------+
-|  Player   |     A     |      D     |      W     |      S     |    X    |
-+-----------+-----------+------------+------------+------------+---------+
-
+| Player       | Move Left | Move Right | Jump       | Punch | Kick | Block |
+|-------------|----------|-----------|-----------|-------|------|-------|
+| **Player 1** | `A`      | `D`       | `W`       | `F`   | `G`  | `H`   |
+| **Player 2** | `←` (Left Arrow) | `→` (Right Arrow) | `↑` (Up Arrow) | `K`   | `L`  | `;`   |
 
 
 ### **Game Rules**

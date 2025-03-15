@@ -38,7 +38,7 @@ Open the project in Visual Studio 2013
 ## How to Play
 
 ### **Controls**
-|              | Move Left | Move Right | Move Up      | Move Down | Collect |
+|              | Move Left | Move Right | Move Up | Move Down | Collect |
 |-------------|----------|-----------|-----------|-------|------|-------|
 | **Player 1** | `A`      | `D`       | `W`       | `s`   | `x`  | 
 

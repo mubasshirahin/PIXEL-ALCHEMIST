@@ -37,10 +37,9 @@ Open the project in Visual Studio 2013
 
 ## How to Play
 
-### **Controls**
-|              | Move Left | Move Right | Move Up | Move Down | Collect |
+| Player       | Move Left | Move Right | Jump       | Punch | Kick | Block |
 |-------------|----------|-----------|-----------|-------|------|-------|
-| **Player 1** | `A`      | `D`       | `W`       | `s`   | `x`  | 
+| **Player 1** | `A`      | `D`       | `W`       | `F`   | `G`  | `H`   |
 
 
 ### **Game Rules**

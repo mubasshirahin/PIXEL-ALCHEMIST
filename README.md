@@ -1,4 +1,4 @@
-# PIXEL ALCHEMIST**
+# PIXEL ALCHEMIST
 
 ## Game Description
 

@@ -27,7 +27,7 @@ Make sure you have the following installed:
 -> **iGraphics Library** (included in this repository)<br/>
 
 
-Open the project in Visual Studio 2013
+Open the project in Visual Studio 2013 <br/>
 -> Open Visual Studio 2013.<br/>
 -> Go to File → Open → Project/Solution.<br/>
 -> Locate and select the .sln file from the cloned repository.<br/>

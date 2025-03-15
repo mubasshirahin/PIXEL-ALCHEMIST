@@ -1,8 +1,9 @@
 # PIXEL ALCHEMIST
 
+
 ## Game Description
 
-Pixel Alchemist is a 2D adventure puzzle game where players must harness the power of the elements to guide a lost character home safely. Trapped in a mysterious forest, the character must merge Fire, Air, Water, and Earth in the correct sequence to overcome obstacles and advance through levels.
+->Pixel Alchemist is a 2D adventure puzzle game where players must harness the power of the elements to guide a lost character home safely. Trapped in a mysterious forest, the character must merge Fire, Air, Water, and Earth in the correct sequence to overcome obstacles and advance through levels.
 
 ## Features
 ->Elemental Merging Mechanic – Combine elements in specific ways to unlock new paths and solve puzzles.

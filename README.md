@@ -14,10 +14,10 @@
 
 
 ## Project Details
-->IDE: Visual studio 2010/2013
-->Language: C,C++.
+-->IDE: Visual studio 2010/2013
+-->Language: C,C++.
 ->Platform : Windows PC.
-->Genre : 2D action adventure
+-->Genre : 2D action adventure
 
 
 ## How to Run the Project

@@ -7,32 +7,32 @@
 
 ## Features
 ->Elemental Merging Mechanic – Combine elements in specific ways to unlock new paths and solve puzzles.<br/>
-->Challenging Collecting System – Elements must be gathered in the correct order to progress.
-->Immersive Forest Environment – Explore a beautifully designed pixel-art world.
-->Dynamic Hints & Instructions – Get subtle guidance when needed to avoid getting stuck.
-->Engaging Puzzle Complexity – Each level presents new challenges and interactions between elements.
+->Challenging Collecting System – Elements must be gathered in the correct order to progress.<br/>
+->Immersive Forest Environment – Explore a beautifully designed pixel-art world.<br/>
+->Dynamic Hints & Instructions – Get subtle guidance when needed to avoid getting stuck.<br/>
+->Engaging Puzzle Complexity – Each level presents new challenges and interactions between elements.<br/>
 
 
 ## Project Details
--IDE: Visual studio 2010/2013
--Language: C,C++.
--Platform : Windows PC.
--Genre : 2D action adventure
+->IDE: Visual studio 2010/2013<br/>
+->Language: C,C++.<br/>
+->Platform : Windows PC.<br/>
+->Genre : 2D action adventure<br/>
 
 
 ## How to Run the Project
 Make sure you have the following installed:
--> **Visual Studio 2013
--> **MinGW Compiler** (if needed)
--> **iGraphics Library** (included in this repository)
+-> **Visual Studio 2013<br/>
+-> **MinGW Compiler** (if needed)<br/>
+-> **iGraphics Library** (included in this repository)<br/>
 
 
 Open the project in Visual Studio 2013
-- Open Visual Studio 2013.
-- Go to File → Open → Project/Solution.
-- Locate and select the .sln file from the cloned repository.
-- Click Build → Build Solution
-- Run the program by clicking Debug → Start Without Debugging
+-> Open Visual Studio 2013.<br/>
+-> Go to File → Open → Project/Solution.<br/>
+-> Locate and select the .sln file from the cloned repository.<br/>
+-> Click Build → Build Solution<br/>
+-> Run the program by clicking Debug → Start Without Debugging<br/>
 
 
 ## How to Play
@@ -43,10 +43,10 @@ Open the project in Visual Studio 2013
 
 
 ### **Game Rules**
-->Players must collect Fire, Air, Water, and Earth in a specific sequence to proceed.
-->Merging the wrong elements can lead to unexpected results or level resets.
-->Some elements require puzzles to unlock before they can be obtained.
-->Players will receive hints if they struggle to find the right path.
+->Players must collect Fire, Air, Water, and Earth in a specific sequence to proceed.<br/>
+->Merging the wrong elements can lead to unexpected results or level resets.<br/>
+->Some elements require puzzles to unlock before they can be obtained.<br/>
+->Players will receive hints if they struggle to find the right path.<br/>
 
 
 ## Project Contributors

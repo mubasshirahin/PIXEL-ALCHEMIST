@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="iMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="StartPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Credits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Help.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGameStart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FireIcon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="waterIcon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FogAnimation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="levelTwoTransition.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="level2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="instruction.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="charachterplot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="windIcon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="movementBlocking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="level3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Images\withFog.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="Images\withoutFog.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="Images\Fire1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Fire2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Fire3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Fire4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Fire5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\New Project.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\pileOfDirt.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\pileOfDirt1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\Shovel.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\Shovel1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\waterfall1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\waterfall2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\waterfall3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\waterfall4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\waterfall5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\wind1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\wind1_.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\wind2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\wind2_.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\wind3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\wind3_.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\wind4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\wind4_.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\wind5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\GAME!!!\REAL COPY\gamee\PIXEL ALCHEMIST\Images\wind5_.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

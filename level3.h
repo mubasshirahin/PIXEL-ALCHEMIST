@@ -471,7 +471,7 @@ void blackScreen(){
 		iSetColor(0,0,0);
 		iFilledRectangle(0, 0, 1100, 1000);
 		iSetColor(255, 255, 255);
-		iText(400,330, "\"Master the four,become the fifth\"", GLUT_BITMAP_TIMES_ROMAN_24);
+		iText(350,330, "\"Master the four,become the fifth\"", GLUT_BITMAP_TIMES_ROMAN_24);
 		iText(450,300, "-Elder Alaric", GLUT_BITMAP_TIMES_ROMAN_24);
 				
 	}

@@ -59,7 +59,11 @@ Open the project in Visual Studio 2013 <br/>
 
 ### **Figure 1: Creating Fire + Water to produce steam that removes the fog.**
 <img src="ss (1).jpg" width="500" height="250">
-<img src="ss (2).jpg" width="200" height="200">
+<img src="ss (2).jpg" width="500" height="250">
+
+### **Figure 2: Inventory system that helps track collected elements.**
+<img src="ss (3).jpg" width="500" height="250">
+
 
 ### **Character**
 <img src="https://github.com/user-attachments/assets/5c8a5fbb-6ebf-48cd-bff0-8235e79d9773" width="200" height="200">

@@ -54,6 +54,12 @@ Open the project in Visual Studio 2013 <br/>
 2. Sadman Mahin
 3. Ahona Zabin
 
+## Youtube Link
+[CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/)
+
+## Project Report
+[Project Report: Pixel Alchemist](https://drive.google.com/file/d/1U3aIyCNhHdOQCzBb3bQ4HdH6kWl0DGhD/view?usp=sharing)
+
 
 ## Screenshots
 
@@ -85,16 +91,3 @@ Open the project in Visual Studio 2013 <br/>
 ### **Figure 8: Final confrontation with the boat guardian.**
 <img src="ss (11).jpg" width="500" height="250">
 <img src="ss (12).jpg" width="500" height="250">
-
-
-
-
-
-### **Character**
-<img src="https://github.com/user-attachments/assets/5c8a5fbb-6ebf-48cd-bff0-8235e79d9773" width="200" height="200">
-
-## Youtube Link
-[CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/)
-
-## Project Report
-[Project Report: Pixel Alchemist](https://drive.google.com/file/d/1U3aIyCNhHdOQCzBb3bQ4HdH6kWl0DGhD/view?usp=sharing)

@@ -58,7 +58,7 @@ Open the project in Visual Studio 2013 <br/>
 ## Screenshots
 
 ### **Figure 1: Creating Fire + Water to produce steam that removes the fog.**
-<img src="ss (1).jpg" width="600" height="394">
+<img src="ss (1).jpg" width="300" height="94">
 <img src="ss (2).jpg" width="200" height="200">
 
 ### **Character**

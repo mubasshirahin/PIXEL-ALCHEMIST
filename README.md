@@ -67,4 +67,4 @@ Open the project in Visual Studio 2013 <br/>
 [CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/)
 
 ## Project Report
-[Project Report: Pixel Alchemist]([https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/file/d/1U3aIyCNhHdOQCzBb3bQ4HdH6kWl0DGhD/view?usp=sharing))
+[Project Report: Pixel Alchemist](https://drive.google.com/drive/u/1/my-drive](https://drive.google.com/file/d/1U3aIyCNhHdOQCzBb3bQ4HdH6kWl0DGhD/view?usp=sharing)

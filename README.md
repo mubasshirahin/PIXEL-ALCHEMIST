@@ -65,8 +65,15 @@ Open the project in Visual Studio 2013 <br/>
 <img src="ss (3).jpg" width="500" height="250">
 
 ### **Figure 3: Breaking the gem with the correct sequence of elements.**
-<img src="ss (4).jpg" width="500" height="250">
 <img src="ss (5).jpg" width="500" height="250">
+<img src="ss (6).jpg" width="500" height="250">
+
+### **Figure 4: Level progression and current level**
+<img src="ss (4).jpg" width="500" height="250">
+
+### **Figure 5: Removing a brick to collect water from the waterfall.**
+<img src="ss (7).jpg" width="500" height="250">
+<img src="ss (8).jpg" width="500" height="250">
 
 
 

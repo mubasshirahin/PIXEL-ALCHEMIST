@@ -64,6 +64,11 @@ Open the project in Visual Studio 2013 <br/>
 ### **Figure 2: Inventory system that helps track collected elements.**
 <img src="ss (3).jpg" width="500" height="250">
 
+### **Figure 3: Breaking the gem with the correct sequence of elements.**
+<img src="ss (4).jpg" width="500" height="250">
+<img src="ss (5).jpg" width="500" height="250">
+
+
 
 ### **Character**
 <img src="https://github.com/user-attachments/assets/5c8a5fbb-6ebf-48cd-bff0-8235e79d9773" width="200" height="200">

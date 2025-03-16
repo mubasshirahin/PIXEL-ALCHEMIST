@@ -75,6 +75,19 @@ Open the project in Visual Studio 2013 <br/>
 <img src="ss (7).jpg" width="500" height="250">
 <img src="ss (8).jpg" width="500" height="250">
 
+### **Figure 6: Creating lava to defeat plant enemies.**
+<img src="ss (9).jpg" width="500" height="250">
+<img src="ss (10).jpg" width="500" height="250">
+
+### **Figure 7: Instructions to give player a little push.**,
+<img src="Images/Instruction5.bmp" width="500" height="250">
+
+### **Figure 8: Final confrontation with the boat guardian.**
+<img src="ss (11).jpg" width="500" height="250">
+<img src="ss (12).jpg" width="500" height="250">
+
+
+
 
 
 ### **Character**

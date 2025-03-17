@@ -55,7 +55,7 @@ Open the project in Visual Studio 2013 <br/>
 3. Ahona Zabin
 
 ## Youtube Link
-[CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/watch?v=kd8M45eKhvQ)
+[CSE 1200 Project: Pixel Alchemist](https://www.youtube.com/watch?v=kd8M45eKhvQ)
 
 ## Project Report
 [Project Report: Pixel Alchemist](https://drive.google.com/file/d/1U3aIyCNhHdOQCzBb3bQ4HdH6kWl0DGhD/view?usp=sharing)
